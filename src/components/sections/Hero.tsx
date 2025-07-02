@@ -53,7 +53,7 @@ export function Hero() {
             <div className="relative w-48 h-48 mx-auto mb-8">
               <div className="absolute inset-0 bg-gradient-to-r from-blue-500 to-purple-500 rounded-full animate-spin-slow" />
               <img
-                src="p2.jpeg"
+                src="..//p2.jpeg"
                 alt="Profile"
                 className="absolute inset-2 w-44 h-44 rounded-full object-cover border-4 border-background"
               />
